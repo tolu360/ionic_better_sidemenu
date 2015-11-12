@@ -1,11 +1,11 @@
-This is an alternative project structure for the [Ionic Framework](http://ionicframework.com/) demonstrated with the ionic tabs starter.
+This is an alternative project structure for the [Ionic Framework](http://ionicframework.com/) demonstrated with the ionic side-menu starter. This is a direct adaptation of [@flavordaaave's work on the tabs starter](https://github.com/flavordaaave/ionic_better_structure/) so all credit to him.
 
 ## How to use this project
 
 To use this starter create a new project folder (e.g. 'myApp') for your app and clone this repository into it.
 ```bash
 $ cd mkdir myApp
-$ git clone https://github.com/flavordaaave/ionic_better_structure.git
+$ git clone https://github.com/tolu360/ionic_better_sidemenu.git
 ```
 
 Then run npm and bower to get all needed dependencies:
