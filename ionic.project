@@ -1,0 +1,13 @@
+{
+  "name": "ion_app_menu",
+  "app_id": "",
+	"gulpStartupTasks": [
+		"inject",
+		"watch"
+	],
+	"documentRoot": "src",
+	"watchPatterns": [
+		"src/**/*",
+		"src/.tmp/**/*"
+	]
+}
